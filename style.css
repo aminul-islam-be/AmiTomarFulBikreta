@@ -81,3 +81,13 @@
 .anchorSize{
     font-size: 12px;
 }
+.section-area2{
+    margin: 80px;
+    background-color:#2727270D ;
+}
+.area2-flex{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 30px;
+}
