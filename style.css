@@ -20,7 +20,7 @@
     position: absolute;
     top: 45px;
     right: 20%;
-    height: 90%;
+    height: 91.5%;
 }
 
 .a-stl{
@@ -34,4 +34,50 @@
     height: 38px;
     padding: 8px;
     border-radius: 5px;
+}
+/* header finished */
+.section-area1{
+    margin-top: 80px;
+}
+.step1{
+    width: 400px;
+    text-align: center;
+}
+.h2-p-tag-center{
+    display: flex;
+    justify-content: center;
+}
+.flower-flex{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    padding: 50px;
+
+}
+.bg-tulip{
+    height: 264px;
+    background: ;
+
+}
+#bgC1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 200px;
+}
+#bgC2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 200px;
+}
+#bgC3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 200px;
+}
+.anchorCenter{
+    text-align: center;
+}
+
+.anchorSize{
+    font-size: 12px;
 }
