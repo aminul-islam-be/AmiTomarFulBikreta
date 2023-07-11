@@ -129,6 +129,16 @@
 }
 .section-area4{
     margin: 5%;
-   
-    
+}
+.area-5{
+    background-image: url("img/Rectangle\ 9.png");
+    padding: 50px;
+    margin: 10%;
+}
+.T-size{
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 3px;
 }
