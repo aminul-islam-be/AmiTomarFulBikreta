@@ -91,3 +91,25 @@
     gap: 100px;
     padding: 30px;
 }
+.section-area3{
+    background-color: #E554730D;
+}
+.area3-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    padding: 50px;
+}
+.area3size{
+    width: 350px;
+    text-align: center;
+    padding: 20px;
+}
+.img-size{
+    height: 200px;
+
+}
+.color1-2{
+    color: #E55473;
+}
