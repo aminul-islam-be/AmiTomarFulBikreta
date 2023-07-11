@@ -142,3 +142,14 @@
     border: none;
     border-radius: 3px;
 }
+footer{
+    color: white;
+    background-color: #111010;
+    display: flex;
+    justify-content: center;
+}
+.F-size{
+    width: 550px;
+    text-align: center;
+    padding: 50px;
+}
