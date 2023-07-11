@@ -113,3 +113,22 @@
 .color1-2{
     color: #E55473;
 }
+.section-area4{
+    margin-top: 60px;
+}
+.flex4{
+    display: flex;
+    justify-content: center;
+}
+.flex5{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+   
+}
+.section-area4{
+    margin: 5%;
+   
+    
+}
